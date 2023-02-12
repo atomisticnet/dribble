@@ -1,5 +1,5 @@
 {
-    "structure": "../LiMO2-Crystal-Structures/Cu-fcc.vasp",
+    "structure": "Cu-fcc.vasp",
     "formula_units": 1.0,
     "sublattices": {
         "A": {
