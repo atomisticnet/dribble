@@ -44,6 +44,15 @@ or to install in "editable" mode, use
   pip install -e .
 
 
+Examples
+--------
+
+See the `examples`_ directory for a number of Jupyter notebooks 
+explaining different aspects of simulations with Dribble.
+
+.. _`examples`: ./examples/
+
+
 Dribble package
 ---------------
 
@@ -101,11 +110,6 @@ Here an example input file:
 
 
 Here, ``POSCAR`` is an atomic structure file in the VASP format.
-
-See also the `examples`_ directory which contains a number of Jupyter
-notebooks explaining different aspects of simulations with Dribble.
-
-.. _`examples`: ./examples/
 
 
 Command line tool
