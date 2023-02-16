@@ -14,11 +14,14 @@ species with other atomic species in the structure.
 
 For more information about the method and for applications see:
 
-A.\ Urban, J.\ Lee, and G.\ Ceder,
+A.\  Urban, "Modeling ionic transport and disorder in crystalline electrodes using percolation theory" *arXiv* (2023) 2302.06759 (https://doi.org/10.48550/arXiv.2302.06759) |br|
+
+A. Urban, J. Lee, and G. Ceder,
 *Adv. Energy Mater.* **4** (2014) 1400478 (https://doi.org/10.1002/aenm.201400478). |br|
-J.\ Lee, A.\ Urban, X.\ Li, D.\ Su, G.\ Hautier, and G.\ Ceder,
+J. Lee, A. Urban, X. Li, D. Su, G. Hautier, and G. Ceder,
 *Science* **343** (2014) 519-522 (https://doi.org/10.1126/science.1246432 ). |br|
-B.\ Ouyang†, N.\ Artrith†, Z.\ Lun†, Z.\ Jadidi, D.\ A.\ Kitchaev, H.\ Ji, A.\ Urban, G.\ Ceder.
+G. S. Gautam, P. Canepa, A. Urban, S.-H. Bo, G. Ceder, *Chem. Mater.* **29** (2017) 7918-7930 (https://doi.org/10.1021/acs.chemmater.7b02820). |br| 
+B. Ouyang†, N. Artrith†, Z. Lun†, Z. Jadidi, D. A. Kitchaev, H. Ji, A. Urban, G. Ceder,
 *Adv. Energy Mater.* **10** (2020) 1903240 (https://doi.org/10.1002/aenm.201903240). 
 
 .. _`percolation theory`: https://en.wikipedia.org/wiki/Percolation_theory
